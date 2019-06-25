@@ -1,8 +1,8 @@
 # Keras
 
-Jupyter Notebook de pruebas de Fine Tuning de Redes Neuronales usando Keras
+Jupyter Notebooks de pruebas de Fine Tuning de Redes Neuronales usando Keras
 
-Arquitecturas probadas
+Redes probadas
 MobileNet
 VGG16
 
