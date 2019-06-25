@@ -16,3 +16,4 @@ MobileNet : 0.51
 VGG16 : 0.63
 
 ![VVG16](https://github.com/giulianodelagala/Keras/blob/master/accuracy%20vgg16.PNG)
+![VGG16-loss](https://github.com/giulianodelagala/Keras/blob/master/loss%20vgg16.PNG)
